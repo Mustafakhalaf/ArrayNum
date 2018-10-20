@@ -1,0 +1,6 @@
+C:\Users\Mustafa Khalaf\Desktop\SIS\ArrayNum\ArrayNum\bin\Debug\ArrayNum.exe.config
+C:\Users\Mustafa Khalaf\Desktop\SIS\ArrayNum\ArrayNum\bin\Debug\ArrayNum.exe
+C:\Users\Mustafa Khalaf\Desktop\SIS\ArrayNum\ArrayNum\bin\Debug\ArrayNum.pdb
+C:\Users\Mustafa Khalaf\Desktop\SIS\ArrayNum\ArrayNum\obj\Debug\ArrayNum.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Khalaf\Desktop\SIS\ArrayNum\ArrayNum\obj\Debug\ArrayNum.exe
+C:\Users\Mustafa Khalaf\Desktop\SIS\ArrayNum\ArrayNum\obj\Debug\ArrayNum.pdb
